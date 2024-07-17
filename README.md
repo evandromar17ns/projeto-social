@@ -1,2 +1,2 @@
 # projeto-social
- Projeto Social com imagens responsivas 
+ Projeto Social com imagens e vídeos responsivos 
